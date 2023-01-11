@@ -28,7 +28,7 @@
     "chalk": "^4.1.2",
     "color-name": "^1.1.4",
     "binary-extensions": "^2.2.0",
-    "debug": "^2.6.9",
+    "debug": "^3.1.0",
     "cors": "^2.8.5",
     "connect": "^3.7.0",
     "depd": "^2.0.0",
