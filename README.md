@@ -15,7 +15,7 @@ _website design project_
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 Site published at: https://github.com/Arshunas/coming-soon
-Design: [Coming soon](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
+Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
 ## 🎯 Project features/goals
 
