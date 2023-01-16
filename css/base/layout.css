@@ -20,27 +20,25 @@
     justify-content: space-between;
 }
 
-.container > .row > .column {
-    width: 50%;
-}
 .container > .columns > .column {
     display: flex;
     flex-direction: column;
     gap: 20px;
     width: 50%;
 }
+
 .container > .row > .right-column {
     width: 40%;
 }
 
-@media(max-width: 1100px) {
+@media (max-width: 1100px) {
     .container > .row {
         width: 800px;
         margin-left: calc(50% - 400px);
     }
 }
 
-@media(max-width: 900px) {
+@media (max-width: 900px) {
     .container > .row {
         width: 600px;
         margin-left: calc(50% - 300px);
@@ -56,7 +54,7 @@
     width: 100%;
 }
 
-@media(max-width: 640px) {
+@media (max-width: 640px) {
     .container {
         padding-left: 20px;
         padding-right: 20px;
