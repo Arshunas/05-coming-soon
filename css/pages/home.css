@@ -4,8 +4,10 @@
 /* 3rd-party */
 @import '../3rd-party/font-awesome.min.css';
 /* components */
+@import '../components/button.css';
 @import '../components/clock.css';
 @import '../components/mouse.css';
+@import '../components/progress-bar.css';
 /* CUSTOM STYLE BELOW THI COMMENT LINE */
 
 /* hero */
@@ -24,6 +26,8 @@
     flex-direction: column;
     gap: 30px;
     text-align: center;
+    align-content: center;
+    align-items: center;
 }
 
 .logo {
@@ -50,7 +54,11 @@ footer.container{
     padding-top: 0px;
 }
 
-.row.socials {
+footer > .row {
+    position: relative;
+}
+
+.socials {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -75,4 +83,9 @@ footer.container{
     background-color: #fff;
     color: #03a9f3;
 }
- 
+
+.back-to-top {
+    position: absolute;
+    top: -1.1em;
+    right: -0.6em;
+}
